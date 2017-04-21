@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: ../login-register.php:1 
+msgid "frm_login_title"
+msgstr "Provide your login Information"
+
+#: ../login-register.php:2 
+msgid "frm_login_username_label"
+msgstr "Username or Email address"
+
+#: ../login-register.php:3 
+msgid "frm_login_password_label"
+msgstr "Password"
+
+#: ../login-register.php:4 
+msgid "frm_login_rememberme_label"
+msgstr "Remember me"
+
+#: ../login-register.php:5 
+msgid "frm_login_submit_label"
+msgstr "Login"
+
+#: ../login-register.php:6 
+msgid "frm_login_new_user_register_link_title"
+msgstr "New user register here"
+
+#: ../login-register.php:7 
+msgid "frm_login_lost_password_link_title"
+msgstr "Lost Password ??"
+
+#: ../login-register.php:8 
+msgid "frm_register_title"
+msgstr "Register your account"
+
+#: ../login-register.php:9 
+msgid "frm_register_username_label"
+msgstr "Username"
+
+#: ../login-register.php:10 
+msgid "frm_register_password_label"
+msgstr "Password"
+
+#: ../login-register.php:11 
+msgid "frm_register_password_length_requirement_label"
+msgstr "(* Minimum 6 character is required )"
+
+#: ../login-register.php:12 
+msgid "frm_register_confirmpassword_label"
+msgstr "Confirm Password"
+
+#: ../login-register.php:13 
+msgid "frm_register_email_label"
+msgstr "Email"
+
+#: ../login-register.php:14 
+msgid "frm_register_firstname_label"
+msgstr "First Name"
+
+#: ../login-register.php:15 
+msgid "frm_register_lastname_label"
+msgstr "Last Name"
+
+#: ../login-register.php:16 
+msgid "frm_register_submit_label"
+msgstr "Register"
+
+#: ../login-register.php:17 
+msgid "frm_register_existing_user_login_link_title"
+msgstr "Existing user login here"
+
+#: ../login-register.php:18 
+msgid "frm_lostpassword_title"
+msgstr "Email"
+
+#: ../login-register.php:19 
+msgid "frm_lostpassword_username_email_label"
+msgstr "Username or Email"
+
+#: ../login-register.php:20 
+msgid "frm_lostpassword_description"
+msgstr "Enter your email address and we'll send you a link you can use to pick a new password."
+
+#: ../login-register.php:21 
+msgid "frm_lostpassword_submit_label"
+msgstr "Submit"
+
+#: ../login-register.php:22 
+msgid "frm_resetpassword_title"
+msgstr "Pick a New Password"
+
+#: ../login-register.php:23 
+msgid "frm_resetpassword_newpassword_label"
+msgstr "New password"
+
+#: ../login-register.php:24 
+msgid "frm_resetpassword_repeatpassword_label"
+msgstr "Repeat new password"
+
+#: ../login-register.php:25 
+msgid "frm_resetpassword_submit_label"
+msgstr "Reset Password"
+
+#: ../login-register.php:26 
+msgid "frm_myaccount_title"
+msgstr "My Account"
+
+#: ../login-register.php:27 
+msgid "frm_myaccount_resetpassword_link_label"
+msgstr "Reset Password"
+
+#: ../login-register.php:28 
+msgid "frm_myaccount_profile_link_label"
+msgstr "Repeat new password"
+
+#: ../login-register.php:29 
+msgid "logout_link_label"
+msgstr "Logout"
+
+#: ../login-register.php:30 
+msgid "empty_username_error"
+msgstr "Username/Email field is empty"
+
+#: ../login-register.php:31 
+msgid "empty_password_error"
+msgstr "Password field is empty"
+
+#: ../login-register.php:32 
+msgid "invalid_username_error"
+msgstr "We don't have any users with this username/email address. Maybe you used a different one when signing up?"
+
+#: ../login-register.php:33 
+msgid "incorrect_password_error"
+msgstr "The password you entered wasn't quite right. <a href='[lostpasswordurl]'>Did you forget your password</a>?"
+
+#: ../login-register.php:34 
+msgid "length_of_password_error"
+msgstr "You should enter minimum 6 character"
+
+#: ../login-register.php:35 
+msgid "password_confirm_password_error"
+msgstr "Password and confirm password does not match"
+
+#: ../login-register.php:36 
+msgid "captcha_verification_failed_error"
+msgstr "Captcha is wrong.Please try again"
+
+#: ../login-register.php:37 
+msgid "username_exists_error"
+msgstr "This username is already exists!"
+
+#: ../login-register.php:38 
+msgid "email_exists_error"
+msgstr "This email already exists!"
+
+#: ../login-register.php:39 
+msgid "theme_already_exist_error"
+msgstr "A theme with same name already exists!"
+
+#: ../login-register.php:40 
+msgid "zip_file_error"
+msgstr "Please enter the zip file."
+
+#: ../login-register.php:41 
+msgid "uploading_error"
+msgstr "There was problem in uploding file, please try again!!"
+
+#: ../login-register.php:42 
+msgid "zip_allowed_error"
+msgstr "Only the zip file is allowed!"
+
+#: ../login-register.php:43 
+msgid "theme_uploading_fail_error"
+msgstr "Theme upload failed, please try again!!"
+
+#: ../login-register.php:44 
+msgid "email_invalid_error"
+msgstr "Email is invalid,Pleace provide the correct one"
+
+#: ../login-register.php:45 
+msgid "reset_password_success"
+msgstr "Check your email for a link to reset your password"
+
+#: ../login-register.php:46 
+msgid "reset_link_expired_error"
+msgstr "This link has expired.please get new password link below"
+
+#: ../login-register.php:47 
+msgid "reset_link_invalid_error"
+msgstr "This link is invalid.please get new password link below"
+
+#: ../login-register.php:48 
+msgid "password_change_success"
+msgstr "Password has been changed succesfully .You can login now"
+
+#: ../login-register.php:49 
+msgid "username_not_available_error"
+msgstr "This username is already taken"
+
+#: ../login-register.php:50 
+msgid "username_availble_success"
+msgstr "This username is available"
+
+#: ../login-register.php:51 
+msgid "registration_success"
+msgstr "Your account has been created succesfully.You can login now"
+
+#: ../login-register.php:52 
+msgid "newuser_register_email_subject"
+msgstr "Your account has been created"
+
+#: ../login-register.php:53 
+msgid "newuser_register_email_body"
+msgstr "hello [name]
+Your account has been created .You can login to site now .Below are your account credentials.
+Username:[username]
+Password:[password]
+Email: [email]
+
+Administrator"
+
+#: ../login-register.php:54 
+msgid "newuser_register_admin_email_subject"
+msgstr "New account has been created"
+
+#: ../login-register.php:55 
+msgid "newuser_register_admin_email_body"
+msgstr "Dear Administrator
+
+Below are details of new user
+name : [name]
+Username:[username]
+Password:[password]
+Email: [email]"
+
+#: ../login-register.php:56 
+msgid "pass_reset_email_subject"
+msgstr "Your password has been reset"
+
+#: ../login-register.php:57 
+msgid "pass_reset_email_body"
+msgstr "Hello
+You asked us to reset your password for your account using the email address.
+If this was a mistake, or you didn't ask for a password reset, just ignore this email and nothing will happen.
+To reset your password, visit the following address:[resetlink]
+
+Thanks!"

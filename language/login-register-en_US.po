@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: ../login-register.php:1
+msgid "empty_username"
+msgstr "Username/Email field is empty"
+
+#: ../login-register.php:2
+msgid "empty_password"
+msgstr "Password field is empty"
+
+#: ../login-register.php:3
+msgid "invalid_username"
+msgstr "We don't have any users with this username/email address. Maybe you used a different one when signing up?"
+
+#: ../login-register.php:4
+msgid "incorrect_password"
+msgstr "The password you entered wasn't quite right. <a href='[lostpasswordurl]'>Did you forget your password</a>?"
+
+#: ../login-register.php:5
+msgid "length_of_password"
+msgstr "You should enter minimum 6 character"
+
+#: ../login-register.php:6
+msgid "password_confirm_password_error"
+msgstr "Password and confirm password does not match"
+
+#: ../login-register.php:7
+msgid "captcha_verification_failed"
+msgstr "Captcha is wrong.Please try again"
+
+#: ../login-register.php:8
+msgid "username_exists"
+msgstr "This username is already exists!"
+
+#: ../login-register.php:9
+msgid "email_exists"
+msgstr "This email already exists!"
+
+#: ../login-register.php:10
+msgid "upload_failed"
+msgstr "The theme already exists!"
+
+#: ../login-register.php:11
+msgid "error_zip"
+msgstr "Please enter the zip file."
+
+#: ../login-register.php:12
+msgid "uploading_error"
+msgstr "There was problem in uploding file, please try again!"
+
+#: ../login-register.php:13
+msgid "zip_allowed"
+msgstr "Only the zip file is allowed!"
+
+#: ../login-register.php:14
+msgid "email_invalid"
+msgstr "Email is invalid,Pleace provide the correct one"
+
+#: ../login-register.php:15
+msgid "reset_password_success"
+msgstr "Check your email for a link to reset your password"
+
+#: ../login-register.php:16
+msgid "reset_link_expired"
+msgstr "This link has expired.please get new password link below"
+
+#: ../login-register.php:17
+msgid "reset_link_invalid"
+msgstr "This link is invalid.please get new password link below"
+
+#: ../login-register.php:18
+msgid "password_change_success"
+msgstr "Password has been changed succesfully .You can login now"
+
+#: ../login-register.php:19
+msgid "username_not_available"
+msgstr "This username is already taken"
+
+#: ../login-register.php:20
+msgid "username_availble"
+msgstr "This username is available"
+
+#: ../login-register.php:21
+msgid "registration_success"
+msgstr "Your account has been created succesfully.You can login now"
+
+
+
+
+
+
+
+
+
+
+
+
+
+

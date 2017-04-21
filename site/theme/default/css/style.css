@@ -1,0 +1,123 @@
+div#mainwrapper{
+width: 65%;
+margin: 10px 30% 10px 25%;
+padding:10px 0;
+border: 1px solid #ccc;
+border-radius:10px;
+}
+div#mainwrapper form{
+width:90%;
+margin:4% 5%;
+}
+div#mainwrapper header{
+background-color: #4180C5;
+text-align: center;
+padding-top: 12px;
+padding-bottom: 8px;
+margin-top: -11px;
+margin-bottom: -8px;
+border-radius: 10px 10px 0 0;
+color: #fff;
+}
+div#mainwrapper header h2{ color:#fff}
+
+
+div#mainwrapper input[type=text],div#mainwrapper input[type=password]{
+margin-bottom: 20px;
+margin-top: 10px;
+width:100%;
+padding: 15px;
+border-radius:5px;
+border:1px solid #7ac9b7;
+}
+div#mainwrapper input[type=submit]
+{
+margin-bottom: 20px;
+width:100%;
+padding: 15px;
+border-radius:5px;
+border:1px solid #7ac9b7;
+background-color: #4180C5;
+color: aliceblue;
+font-size:15px;
+cursor:pointer;
+}
+div#mainwrapper #submit:hover
+{
+background-color: black;
+}
+div#mainwrapper textarea{
+width:100%;
+padding: 15px;
+margin-top: 10px;
+border:1px solid #7ac9b7;
+border-radius:5px;
+margin-bottom: 20px;
+resize:none;
+}
+div#mainwrapper input[type=text]:focus,div#mainwrapper textarea:focus,div#mainwrapper password:focus {
+border-color: #4697e4;
+}
+div#mainwrapper .captcha{margin-bottom: 20px;}
+div#mainwrapper .error{ color:red}
+div#mainwrapper .msg{ color:green}
+
+@media screen and (max-width: 1200px) and (min-width: 601px){
+
+div#mainwrapper{
+width: 80%;
+margin: 10px 30% 10px 11%;
+}
+div#mainwrapper .g-recaptcha{transform:scale(0.77);-webkit-transform:scale(0.77);transform-origin:0 0;-webkit-transform-origin:0 0;}
+}
+
+@media screen and (max-width: 600px) and (min-width: 351px){
+
+div#mainwrapper h2{
+font-size:16px;
+}
+div#mainwrapper p{
+font-size:14px;
+}
+div#mainwrapper label{
+font-size:12px;
+}
+div#mainwrapper input[type=submit]{
+padding:5px;
+}
+div#mainwrapper input[type=text],div#mainwrapper input[type=password]{
+padding: 8px;
+}
+div#mainwrapper .captcha{margin-bottom: 8px;}
+div#mainwrapper{
+width: 80%;
+margin: 10px 30% 10px 11%;
+}
+
+div#mainwrapper .g-recaptcha{transform:scale(0.60);-webkit-transform:scale(0.60);transform-origin:0 0;-webkit-transform-origin:0 0;}
+}
+
+@media screen and (max-width: 600px) and (min-width: 351px){
+div#mainwrapper input[type=submit]
+{
+padding:4px;
+font-size:12px;
+}
+div#mainwrapper input[type=text],div#mainwrapper input[type=password]{
+padding: 8px;
+}
+div#mainwrapper .captcha{margin-bottom: 8px;}
+div#mainwrapper label{
+font-size:12px;
+}
+div#mainwrapper h2{
+font-size:15px;
+}
+div#mainwrapper p{
+font-size:12px;
+}
+div#mainwrapper{
+width: 80%;
+margin: 10px 30% 10px 11%;
+}
+}
